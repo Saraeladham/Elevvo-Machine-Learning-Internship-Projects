@@ -9,7 +9,7 @@ Each task applies core **machine learning techniques** with hands-on datasets, f
 - Techniques: **Linear Regression, Polynomial Regression**  
 - Focus: Data cleaning, visualization, feature engineering, regression metrics.  
 
-###**Task 2: Mall Customer Segmentation**
+### **Task 2: Mall Customer Segmentation**
 Cluster mall customers into meaningful groups based on demographic and behavioral features.
 **Techniques:** K-Means Clustering, DBSCAN, Elbow Method, Silhouette Score, Davies–Bouldin Index
 **Focus:** Feature scaling, categorical encoding, cluster evaluation, customer profiling, business insights from spending behavior.
